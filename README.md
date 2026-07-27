@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yaser Mohammed
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning Full Stack Developer
+- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @yasermohammeds on Instagram
 
